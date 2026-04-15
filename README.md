@@ -1,6 +1,7 @@
 # Computer Graphics Project
 ## Collaborators
-- MD. Rashedul Islam Shawon
-- MD. Junaid Zahan Nahin
-- MD. Nishat Raihan Khan Nijhum
-- 
+- MD. RASHEDUL ISLAM SHAWON
+- MD. JUNAID ZAHAN NAHIN
+- MD. NISHAT RAIHAN KHAN NIJHUM
+- RITTIK CHANDRA DEY
+- WAKIL MAHMUD RAHAT
