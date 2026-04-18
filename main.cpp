@@ -12,15 +12,16 @@ void circleFunc(float p1, float q1, float r1, int R1, int G1, int B1)
     int R = R1;
     int G = G1;
     int B = B1;
-
-    int triangle=100;
-    GLfloat tp =2.0f * PI;
+    int triangle = 100;
+    float tp = 2 * PI;
 
     glBegin(GL_TRIANGLE_FAN);
     glColor3ub(R, G, B);
     glVertex2f(x, y);
     for (int i = 0; i <= triangle; i++)
+    {
         glVertex2f(x + (r * cos(i * tp / triangle)), y + (r * sin(i * tp / triangle)));
+    }
     glEnd();
 }
 
