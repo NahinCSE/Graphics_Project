@@ -4,6 +4,8 @@
 #include<math.h>
 
 // Function for making circles - Rashed
+// FIXME: nijhum check it, dosent make perfect circles.
+
 void circleFunc(float p1, float q1, float r1, int R1, int G1, int B1)
 {
     GLfloat x = p1;
